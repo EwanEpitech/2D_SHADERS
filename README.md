@@ -40,12 +40,12 @@ Le sous-projet STICKY implémente un shader "collant/effet de groupe" 2D.
 
 ### WATER
 
-Le sous-projet WATER implémente un shader d'eau 2D en utilisant la distorsion causé par des textures de bruit
+Le sous-projet WATER implémente un shader d'eau 2D en utilisant la distorsion causée par des textures de bruit
 
 ![Image du sous-projet WATER](assets/water_effect.png)
 
 ### LIGHT
 
-Le sous-projet LIGHT implémente un shader de lumière 2D.
+Le sous-projet LIGHT implémente un shader de lumière 2D via normal map.
 
 ![Image du sous-projet LIGHT](assets/light_effect.png)
